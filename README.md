@@ -12,7 +12,7 @@ In the calculation of the randomized SVD, we avoid using the matrix H itself
 and instead use its inverse J.
 
 For more information on the method please refer to
-    Ribeiro, Yeh, and Taira arXiv 2019 and Halko, Martinsson and Tropp 2009.
+    **Ribeiro, Yeh, and Taira arXiv 2019* and *Halko, Martinsson and Tropp 2009*.
 
 For details regarding the linear algebra involved I cannot recommend
 Trefethen and Bau's book highly enough.
